@@ -18,7 +18,7 @@ export default function Banner() {
                 </div>
                 <div className="options1">
                 <select className='m-3 p-2'>
-                    <option value="All Locations">All Locations</option>
+                    <option value="All Locations">All Destinations</option>
                     <option value="Paris">Paris</option>
                     <option value="Amsterdam">Amsterdam</option>
                     <option value="London">London</option>
